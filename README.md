@@ -44,12 +44,11 @@ endmodule
 **RTL realization**
 
 
-![de cop 2](https://github.com/user-attachments/assets/dea70222-2bbe-4d0b-a48b-57f69bd65077)
+![de cp 1](https://github.com/user-attachments/assets/441ac6af-6608-4a3b-bc7f-bc77e153bb44)
 
 **Output-Timing Diagram:**
 
-
-![de cp 1](https://github.com/user-attachments/assets/441ac6af-6608-4a3b-bc7f-bc77e153bb44)
+![de cop 2](https://github.com/user-attachments/assets/dea70222-2bbe-4d0b-a48b-57f69bd65077)
 
 
 **Result:**
